@@ -1,0 +1,1059 @@
+2025-07-30 08:03:47.340 -06:00 [INF] Report Update Worker started
+2025-07-30 08:03:47.429 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 08:03:47.432 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 08:03:47.516 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 08:03:47.520 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 08:03:48.073 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T15:03:47.0669560Z"
+2025-07-30 08:03:48.073 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T15:03:47.0669589Z"
+2025-07-30 08:03:48.197 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T15:03:47.1977992Z"
+2025-07-30 08:03:48.772 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 08:03:49.089 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 08:03:49.159 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 08:03:49.166 -06:00 [INF] Completed report update cycle
+2025-07-30 08:03:49.169 -06:00 [INF] Next update scheduled for "2025-07-30T08:08:49.1692127-06:00" (in "00:04:59.9999488")
+2025-07-30 08:08:49.186 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 08:08:49.226 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 08:08:49.236 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 08:08:49.248 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 08:08:50.138 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 08:08:50.140 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 08:08:50.141 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 08:08:50.147 -06:00 [INF] Completed report update cycle
+2025-07-30 08:08:50.148 -06:00 [INF] Next update scheduled for "2025-07-30T08:13:50.1488353-06:00" (in "00:04:59.9999958")
+2025-07-30 08:13:50.167 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 08:13:50.186 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 08:13:50.234 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 08:13:50.256 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 08:13:51.049 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 08:13:51.139 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 08:13:51.201 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 08:13:51.208 -06:00 [INF] Completed report update cycle
+2025-07-30 08:13:51.209 -06:00 [INF] Next update scheduled for "2025-07-30T08:18:51.2097465-06:00" (in "00:04:59.9999967")
+2025-07-30 08:18:51.220 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 08:18:51.230 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 08:18:51.237 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 08:18:51.247 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 08:18:52.429 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 08:18:52.429 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 08:18:52.697 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 08:18:52.702 -06:00 [INF] Completed report update cycle
+2025-07-30 08:18:52.703 -06:00 [INF] Next update scheduled for "2025-07-30T08:23:52.7035950-06:00" (in "00:04:59.9999965")
+2025-07-30 08:23:52.715 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 08:23:52.718 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 08:23:52.728 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 08:23:52.753 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 08:23:53.851 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 08:23:53.914 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 08:23:53.914 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 08:23:53.928 -06:00 [INF] Completed report update cycle
+2025-07-30 08:23:53.931 -06:00 [INF] Next update scheduled for "2025-07-30T08:28:53.9314887-06:00" (in "00:04:59.9999941")
+2025-07-30 08:28:53.939 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 08:28:53.942 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 08:28:53.951 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 08:28:53.972 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 08:28:55.547 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 08:28:55.547 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 08:28:55.547 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 08:28:55.556 -06:00 [INF] Completed report update cycle
+2025-07-30 08:28:55.560 -06:00 [INF] Next update scheduled for "2025-07-30T08:33:55.5600548-06:00" (in "00:04:59.9999932")
+2025-07-30 08:33:55.570 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 08:33:55.571 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 08:33:55.574 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 08:33:55.584 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 08:33:56.306 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 08:33:56.328 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 08:33:56.612 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 08:33:56.614 -06:00 [INF] Completed report update cycle
+2025-07-30 08:33:56.615 -06:00 [INF] Next update scheduled for "2025-07-30T08:38:56.6157337-06:00" (in "00:04:59.9999973")
+2025-07-30 08:38:56.608 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 08:38:56.609 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 08:38:56.612 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 08:38:56.628 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 08:38:57.682 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 08:38:57.682 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 08:38:57.682 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 08:38:57.700 -06:00 [INF] Completed report update cycle
+2025-07-30 08:38:57.703 -06:00 [INF] Next update scheduled for "2025-07-30T08:43:57.7036930-06:00" (in "00:04:59.9999974")
+2025-07-30 08:43:57.717 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 08:43:57.729 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 08:43:57.738 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 08:43:57.754 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 08:43:58.536 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 08:43:58.536 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 08:43:58.563 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 08:43:58.564 -06:00 [INF] Completed report update cycle
+2025-07-30 08:43:58.565 -06:00 [INF] Next update scheduled for "2025-07-30T08:48:58.5659214-06:00" (in "00:04:59.9999965")
+2025-07-30 08:48:58.582 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 08:48:58.583 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 08:48:58.588 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 08:48:58.604 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 08:48:59.512 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 08:48:59.532 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 08:48:59.820 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 08:48:59.822 -06:00 [INF] Completed report update cycle
+2025-07-30 08:48:59.823 -06:00 [INF] Next update scheduled for "2025-07-30T08:53:59.8238662-06:00" (in "00:04:59.9999959")
+2025-07-30 08:53:59.835 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 08:53:59.839 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 08:53:59.848 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 08:53:59.863 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 08:54:00.789 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 08:54:00.789 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 08:54:00.979 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 08:54:00.981 -06:00 [INF] Completed report update cycle
+2025-07-30 08:54:00.982 -06:00 [INF] Next update scheduled for "2025-07-30T08:59:00.9827315-06:00" (in "00:04:59.9999968")
+2025-07-30 08:59:00.991 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 08:59:00.996 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 08:59:01.038 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 08:59:01.053 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 08:59:01.762 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T15:59:00.7610183Z"
+2025-07-30 08:59:01.762 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T15:59:00.7610573Z"
+2025-07-30 08:59:01.818 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T15:59:00.8185729Z"
+2025-07-30 08:59:02.577 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 08:59:02.577 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 08:59:02.603 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 08:59:02.610 -06:00 [INF] Completed report update cycle
+2025-07-30 08:59:02.616 -06:00 [INF] Next update scheduled for "2025-07-30T09:04:02.6168252-06:00" (in "00:04:59.9999959")
+2025-07-30 09:04:02.623 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 09:04:02.629 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 09:04:02.640 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 09:04:02.661 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 09:04:03.440 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 09:04:03.440 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 09:04:03.440 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 09:04:03.451 -06:00 [INF] Completed report update cycle
+2025-07-30 09:04:03.454 -06:00 [INF] Next update scheduled for "2025-07-30T09:09:03.4539907-06:00" (in "00:04:59.9999961")
+2025-07-30 09:09:03.459 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 09:09:03.462 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 09:09:03.466 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 09:09:03.480 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 09:09:04.305 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 09:09:04.367 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 09:09:04.376 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 09:09:04.384 -06:00 [INF] Completed report update cycle
+2025-07-30 09:09:04.387 -06:00 [INF] Next update scheduled for "2025-07-30T09:14:04.3876357-06:00" (in "00:04:59.9999919")
+2025-07-30 09:14:04.400 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 09:14:04.408 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 09:14:04.419 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 09:14:04.439 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 09:14:05.228 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 09:14:05.377 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 09:14:05.682 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 09:14:05.688 -06:00 [INF] Completed report update cycle
+2025-07-30 09:14:05.694 -06:00 [INF] Next update scheduled for "2025-07-30T09:19:05.6940972-06:00" (in "00:04:59.9999893")
+2025-07-30 09:19:05.711 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 09:19:05.714 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 09:19:05.723 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 09:19:05.737 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 09:19:06.533 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 09:19:06.652 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 09:19:06.652 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 09:19:06.663 -06:00 [INF] Completed report update cycle
+2025-07-30 09:19:06.666 -06:00 [INF] Next update scheduled for "2025-07-30T09:24:06.6663243-06:00" (in "00:04:59.9999827")
+2025-07-30 09:24:06.679 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 09:24:06.681 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 09:24:06.687 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 09:24:06.718 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 09:24:07.517 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 09:24:07.517 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 09:24:07.823 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 09:24:07.830 -06:00 [INF] Completed report update cycle
+2025-07-30 09:24:07.836 -06:00 [INF] Next update scheduled for "2025-07-30T09:29:07.8360051-06:00" (in "00:04:59.9999911")
+2025-07-30 09:29:07.845 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 09:29:07.848 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 09:29:07.853 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 09:29:07.863 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 09:29:08.584 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 09:29:08.645 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 09:29:08.707 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 09:29:08.715 -06:00 [INF] Completed report update cycle
+2025-07-30 09:29:08.719 -06:00 [INF] Next update scheduled for "2025-07-30T09:34:08.7192936-06:00" (in "00:04:59.9999932")
+2025-07-30 09:34:08.720 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 09:34:08.721 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 09:34:08.724 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 09:34:08.736 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 09:34:09.554 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 09:34:09.555 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 09:34:09.563 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 09:34:09.567 -06:00 [INF] Completed report update cycle
+2025-07-30 09:34:09.569 -06:00 [INF] Next update scheduled for "2025-07-30T09:39:09.5694330-06:00" (in "00:04:59.9999960")
+2025-07-30 09:39:09.570 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 09:39:09.573 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 09:39:09.581 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 09:39:09.592 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 09:39:10.420 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 09:39:10.493 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 09:39:10.553 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 09:39:10.556 -06:00 [INF] Completed report update cycle
+2025-07-30 09:39:10.559 -06:00 [INF] Next update scheduled for "2025-07-30T09:44:10.5595941-06:00" (in "00:04:59.9999926")
+2025-07-30 09:44:10.559 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 09:44:10.563 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 09:44:10.569 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 09:44:10.596 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 09:44:11.489 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 09:44:11.489 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 09:44:11.694 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 09:44:11.699 -06:00 [INF] Completed report update cycle
+2025-07-30 09:44:11.703 -06:00 [INF] Next update scheduled for "2025-07-30T09:49:11.7035339-06:00" (in "00:04:59.9999708")
+2025-07-30 09:49:11.718 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 09:49:11.722 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 09:49:11.730 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 09:49:11.750 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 09:49:12.562 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 09:49:12.562 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 09:49:12.562 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 09:49:12.578 -06:00 [INF] Completed report update cycle
+2025-07-30 09:49:12.583 -06:00 [INF] Next update scheduled for "2025-07-30T09:54:12.5837235-06:00" (in "00:04:59.9999932")
+2025-07-30 09:54:12.598 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 09:54:12.602 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 09:54:12.665 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 09:54:12.682 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 09:54:13.248 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T16:54:12.2476285Z"
+2025-07-30 09:54:13.310 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T16:54:12.3098831Z"
+2025-07-30 09:54:13.310 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T16:54:12.3101603Z"
+2025-07-30 09:54:14.347 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 09:54:14.358 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 09:54:14.405 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 09:54:14.412 -06:00 [INF] Completed report update cycle
+2025-07-30 09:54:14.417 -06:00 [INF] Next update scheduled for "2025-07-30T09:59:14.4174418-06:00" (in "00:04:59.9999972")
+2025-07-30 09:59:14.421 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 09:59:14.427 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 09:59:14.438 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 09:59:14.464 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 09:59:15.283 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 09:59:15.283 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 09:59:15.293 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 09:59:15.298 -06:00 [INF] Completed report update cycle
+2025-07-30 09:59:15.300 -06:00 [INF] Next update scheduled for "2025-07-30T10:04:15.3007603-06:00" (in "00:04:59.9999971")
+2025-07-30 10:04:15.303 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 10:04:15.307 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 10:04:15.311 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 10:04:15.333 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 10:04:16.283 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 10:04:16.283 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 10:04:16.283 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 10:04:16.295 -06:00 [INF] Completed report update cycle
+2025-07-30 10:04:16.297 -06:00 [INF] Next update scheduled for "2025-07-30T10:09:16.2979080-06:00" (in "00:04:59.9999950")
+2025-07-30 10:09:16.304 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 10:09:16.311 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 10:09:16.322 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 10:09:16.351 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 10:09:17.357 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 10:09:17.358 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 10:09:17.358 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 10:09:17.376 -06:00 [INF] Completed report update cycle
+2025-07-30 10:09:17.381 -06:00 [INF] Next update scheduled for "2025-07-30T10:14:17.3813837-06:00" (in "00:04:59.9999943")
+2025-07-30 10:14:17.392 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 10:14:17.397 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 10:14:17.408 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 10:14:17.434 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 10:14:18.221 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 10:14:18.221 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 10:14:18.529 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 10:14:18.533 -06:00 [INF] Completed report update cycle
+2025-07-30 10:14:18.537 -06:00 [INF] Next update scheduled for "2025-07-30T10:19:18.5371498-06:00" (in "00:04:59.9999946")
+2025-07-30 10:19:18.557 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 10:19:18.567 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 10:19:18.581 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 10:19:18.617 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 10:19:19.499 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 10:19:19.499 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 10:19:19.499 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 10:19:19.522 -06:00 [INF] Completed report update cycle
+2025-07-30 10:19:19.530 -06:00 [INF] Next update scheduled for "2025-07-30T10:24:19.5300773-06:00" (in "00:04:59.9999943")
+2025-07-30 10:24:19.546 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 10:24:19.549 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 10:24:19.564 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 10:24:19.591 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 10:24:20.465 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 10:24:20.465 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 10:24:20.465 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 10:24:20.478 -06:00 [INF] Completed report update cycle
+2025-07-30 10:24:20.480 -06:00 [INF] Next update scheduled for "2025-07-30T10:29:20.4803816-06:00" (in "00:04:59.9999925")
+2025-07-30 10:29:20.485 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 10:29:20.624 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 10:29:20.913 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 10:29:21.161 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 10:29:21.948 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 10:29:21.950 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 10:29:22.151 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 10:29:22.342 -06:00 [INF] Completed report update cycle
+2025-07-30 10:29:22.455 -06:00 [INF] Next update scheduled for "2025-07-30T10:34:22.4555736-06:00" (in "00:04:59.9999939")
+2025-07-30 10:34:22.629 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 10:34:22.647 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 10:34:22.674 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 10:34:22.693 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 10:34:23.528 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 10:34:23.588 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 10:34:23.709 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 10:34:23.719 -06:00 [INF] Completed report update cycle
+2025-07-30 10:34:23.723 -06:00 [INF] Next update scheduled for "2025-07-30T10:39:23.7230498-06:00" (in "00:04:59.9999966")
+2025-07-30 10:39:23.730 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 10:39:23.733 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 10:39:23.739 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 10:39:23.757 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 10:39:24.576 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 10:39:24.583 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 10:39:24.634 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 10:39:24.636 -06:00 [INF] Completed report update cycle
+2025-07-30 10:39:24.638 -06:00 [INF] Next update scheduled for "2025-07-30T10:44:24.6381029-06:00" (in "00:04:59.9999962")
+2025-07-30 10:44:24.642 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 10:44:24.648 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 10:44:24.652 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 10:44:24.675 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 10:44:25.467 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 10:44:25.467 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 10:44:25.467 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 10:44:25.479 -06:00 [INF] Completed report update cycle
+2025-07-30 10:44:25.482 -06:00 [INF] Next update scheduled for "2025-07-30T10:49:25.4823112-06:00" (in "00:04:59.9999981")
+2025-07-30 10:49:25.506 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 10:49:25.512 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 10:49:25.522 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 10:49:25.543 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 10:49:26.227 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T17:49:25.2252891Z"
+2025-07-30 10:49:26.227 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T17:49:25.2252849Z"
+2025-07-30 10:49:26.227 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T17:49:25.2252912Z"
+2025-07-30 10:49:27.045 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 10:49:27.045 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 10:49:27.106 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 10:49:27.118 -06:00 [INF] Completed report update cycle
+2025-07-30 10:49:27.122 -06:00 [INF] Next update scheduled for "2025-07-30T10:54:27.1227923-06:00" (in "00:04:59.9999956")
+2025-07-30 10:54:27.136 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 10:54:27.144 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 10:54:27.154 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 10:54:27.192 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 10:54:27.908 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 10:54:27.909 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 10:54:27.909 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 10:54:27.924 -06:00 [INF] Completed report update cycle
+2025-07-30 10:54:27.926 -06:00 [INF] Next update scheduled for "2025-07-30T10:59:27.9266317-06:00" (in "00:04:59.9999959")
+2025-07-30 10:59:27.923 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 10:59:27.933 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 10:59:27.950 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 10:59:27.975 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 10:59:28.775 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 10:59:28.776 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 10:59:28.979 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 10:59:28.988 -06:00 [INF] Completed report update cycle
+2025-07-30 10:59:28.990 -06:00 [INF] Next update scheduled for "2025-07-30T11:04:28.9901753-06:00" (in "00:04:59.9999779")
+2025-07-30 11:04:29.018 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 11:04:29.034 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 11:04:29.039 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 11:04:29.051 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 11:04:29.659 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 11:04:29.717 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 11:04:29.747 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 11:04:29.752 -06:00 [INF] Completed report update cycle
+2025-07-30 11:04:29.754 -06:00 [INF] Next update scheduled for "2025-07-30T11:09:29.7542208-06:00" (in "00:04:59.9999973")
+2025-07-30 11:09:29.765 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 11:09:29.772 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 11:09:29.779 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 11:09:29.805 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 11:09:30.711 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 11:09:30.764 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 11:09:30.781 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 11:09:30.787 -06:00 [INF] Completed report update cycle
+2025-07-30 11:09:30.789 -06:00 [INF] Next update scheduled for "2025-07-30T11:14:30.7891845-06:00" (in "00:04:59.9999955")
+2025-07-30 11:14:30.784 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 11:14:30.789 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 11:14:30.799 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 11:14:30.834 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 11:14:31.673 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 11:14:31.673 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 11:14:31.673 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 11:14:31.690 -06:00 [INF] Completed report update cycle
+2025-07-30 11:14:31.693 -06:00 [INF] Next update scheduled for "2025-07-30T11:19:31.6936419-06:00" (in "00:04:59.9999922")
+2025-07-30 11:19:31.730 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 11:19:31.744 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 11:19:31.751 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 11:19:31.781 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 11:19:32.643 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 11:19:32.645 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 11:19:32.646 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 11:19:32.666 -06:00 [INF] Completed report update cycle
+2025-07-30 11:19:32.671 -06:00 [INF] Next update scheduled for "2025-07-30T11:24:32.6714279-06:00" (in "00:04:59.9999951")
+2025-07-30 11:24:32.694 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 11:24:32.698 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 11:24:32.708 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 11:24:32.728 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 11:24:33.611 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 11:24:33.611 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 11:24:33.813 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 11:24:33.819 -06:00 [INF] Completed report update cycle
+2025-07-30 11:24:33.823 -06:00 [INF] Next update scheduled for "2025-07-30T11:29:33.8232588-06:00" (in "00:04:59.9999928")
+2025-07-30 11:29:33.831 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 11:29:33.833 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 11:29:33.840 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 11:29:33.862 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 11:29:34.747 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 11:29:34.747 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 11:29:34.747 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 11:29:34.766 -06:00 [INF] Completed report update cycle
+2025-07-30 11:29:34.769 -06:00 [INF] Next update scheduled for "2025-07-30T11:34:34.7694891-06:00" (in "00:04:59.9999953")
+2025-07-30 11:34:34.776 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 11:34:34.785 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 11:34:34.790 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 11:34:34.805 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 11:34:35.555 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 11:34:35.627 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 11:34:35.691 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 11:34:35.694 -06:00 [INF] Completed report update cycle
+2025-07-30 11:34:35.695 -06:00 [INF] Next update scheduled for "2025-07-30T11:39:35.6957736-06:00" (in "00:04:59.9999980")
+2025-07-30 11:39:35.705 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 11:39:35.708 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 11:39:35.718 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 11:39:35.745 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 11:39:36.581 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 11:39:36.581 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 11:39:36.600 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 11:39:36.603 -06:00 [INF] Completed report update cycle
+2025-07-30 11:39:36.605 -06:00 [INF] Next update scheduled for "2025-07-30T11:44:36.6057430-06:00" (in "00:04:59.9999975")
+2025-07-30 11:44:36.622 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 11:44:36.630 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 11:44:36.660 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 11:44:36.672 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 11:44:37.500 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T18:44:36.4995078Z"
+2025-07-30 11:44:37.500 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T18:44:36.4995007Z"
+2025-07-30 11:44:37.500 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T18:44:36.4995005Z"
+2025-07-30 11:44:38.371 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 11:44:38.371 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 11:44:38.441 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 11:44:38.466 -06:00 [INF] Completed report update cycle
+2025-07-30 11:44:38.476 -06:00 [INF] Next update scheduled for "2025-07-30T11:49:38.4762730-06:00" (in "00:04:59.9999976")
+2025-07-30 11:49:36.906 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 11:49:36.923 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 11:49:36.927 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 11:49:36.936 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 11:49:37.644 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 11:49:37.644 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 11:49:37.652 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 11:49:37.658 -06:00 [INF] Completed report update cycle
+2025-07-30 11:49:37.660 -06:00 [INF] Next update scheduled for "2025-07-30T11:54:37.6607138-06:00" (in "00:04:59.9999950")
+2025-07-30 11:54:37.669 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 11:54:37.680 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 11:54:37.691 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 11:54:37.711 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 11:54:38.510 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 11:54:38.510 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 11:54:38.732 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 11:54:38.737 -06:00 [INF] Completed report update cycle
+2025-07-30 11:54:38.740 -06:00 [INF] Next update scheduled for "2025-07-30T11:59:38.7409248-06:00" (in "00:04:59.9999974")
+2025-07-30 11:59:38.753 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 11:59:38.757 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 11:59:38.761 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 11:59:38.769 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 11:59:39.521 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 11:59:39.549 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 11:59:39.590 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 11:59:39.596 -06:00 [INF] Completed report update cycle
+2025-07-30 11:59:39.600 -06:00 [INF] Next update scheduled for "2025-07-30T12:04:39.6001084-06:00" (in "00:04:59.9999964")
+2025-07-30 12:04:39.609 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 12:04:39.614 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 12:04:39.629 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 12:04:39.646 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 12:04:40.358 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 12:04:40.365 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 12:04:40.425 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 12:04:40.427 -06:00 [INF] Completed report update cycle
+2025-07-30 12:04:40.429 -06:00 [INF] Next update scheduled for "2025-07-30T12:09:40.4294225-06:00" (in "00:04:59.9999967")
+2025-07-30 12:09:40.455 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 12:09:40.468 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 12:09:40.477 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 12:09:40.499 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 12:09:41.414 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 12:09:41.414 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 12:09:41.414 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 12:09:41.418 -06:00 [INF] Completed report update cycle
+2025-07-30 12:09:41.419 -06:00 [INF] Next update scheduled for "2025-07-30T12:14:41.4190736-06:00" (in "00:04:59.9999975")
+2025-07-30 12:14:41.433 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 12:14:41.437 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 12:14:41.447 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 12:14:41.458 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 12:14:42.107 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 12:14:42.149 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 12:14:42.223 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 12:14:42.228 -06:00 [INF] Completed report update cycle
+2025-07-30 12:14:42.230 -06:00 [INF] Next update scheduled for "2025-07-30T12:19:42.2303779-06:00" (in "00:04:59.9999936")
+2025-07-30 12:19:42.241 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 12:19:42.248 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 12:19:42.266 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 12:19:42.288 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 12:19:42.863 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 12:19:42.872 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 12:19:42.983 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 12:19:42.990 -06:00 [INF] Completed report update cycle
+2025-07-30 12:19:42.994 -06:00 [INF] Next update scheduled for "2025-07-30T12:24:42.9942805-06:00" (in "00:04:59.9999961")
+2025-07-30 12:24:43.016 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 12:24:43.023 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 12:24:43.028 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 12:24:43.036 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 12:24:43.805 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 12:24:43.805 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 12:24:43.805 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 12:24:43.814 -06:00 [INF] Completed report update cycle
+2025-07-30 12:24:43.815 -06:00 [INF] Next update scheduled for "2025-07-30T12:29:43.8152297-06:00" (in "00:04:59.9999975")
+2025-07-30 12:29:43.829 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 12:29:43.833 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 12:29:43.842 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 12:29:43.861 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 12:29:44.671 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 12:29:44.671 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 12:29:44.671 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 12:29:44.698 -06:00 [INF] Completed report update cycle
+2025-07-30 12:29:44.702 -06:00 [INF] Next update scheduled for "2025-07-30T12:34:44.7024252-06:00" (in "00:04:59.9999934")
+2025-07-30 12:34:44.726 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 12:34:44.743 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 12:34:44.747 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 12:34:44.763 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 12:34:45.742 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 12:34:45.742 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 12:34:45.806 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 12:34:45.810 -06:00 [INF] Completed report update cycle
+2025-07-30 12:34:45.812 -06:00 [INF] Next update scheduled for "2025-07-30T12:39:45.8122102-06:00" (in "00:04:59.9999922")
+2025-07-30 12:39:45.817 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 12:39:45.827 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 12:39:45.876 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 12:39:45.894 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 12:39:46.099 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T19:39:45.0994138Z"
+2025-07-30 12:39:46.160 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T19:39:45.1603073Z"
+2025-07-30 12:39:46.226 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T19:39:45.2265082Z"
+2025-07-30 12:39:46.946 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 12:39:46.955 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 12:39:47.221 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 12:39:47.225 -06:00 [INF] Completed report update cycle
+2025-07-30 12:39:47.228 -06:00 [INF] Next update scheduled for "2025-07-30T12:44:47.2280224-06:00" (in "00:04:59.9999982")
+2025-07-30 12:44:47.232 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 12:44:47.237 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 12:44:47.252 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 12:44:47.273 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 12:44:48.091 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 12:44:48.091 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 12:44:48.156 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 12:44:48.168 -06:00 [INF] Completed report update cycle
+2025-07-30 12:44:48.169 -06:00 [INF] Next update scheduled for "2025-07-30T12:49:48.1692555-06:00" (in "00:04:59.9999936")
+2025-07-30 12:49:48.192 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 12:49:48.244 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 12:49:48.258 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 12:49:48.288 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 12:49:49.056 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 12:49:49.057 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 12:49:49.119 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 12:49:49.132 -06:00 [INF] Completed report update cycle
+2025-07-30 12:49:49.134 -06:00 [INF] Next update scheduled for "2025-07-30T12:54:49.1339586-06:00" (in "00:04:59.9999954")
+2025-07-30 12:54:49.140 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 12:54:49.149 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 12:54:49.158 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 12:54:49.171 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 12:54:49.924 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 12:54:49.990 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 12:54:50.234 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 12:54:50.244 -06:00 [INF] Completed report update cycle
+2025-07-30 12:54:50.248 -06:00 [INF] Next update scheduled for "2025-07-30T12:59:50.2485370-06:00" (in "00:04:59.9999938")
+2025-07-30 12:59:50.264 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 12:59:50.269 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 12:59:50.283 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 12:59:50.320 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 12:59:51.100 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 12:59:51.100 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 12:59:51.100 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 12:59:51.115 -06:00 [INF] Completed report update cycle
+2025-07-30 12:59:51.118 -06:00 [INF] Next update scheduled for "2025-07-30T13:04:51.1180981-06:00" (in "00:04:59.9999955")
+2025-07-30 13:04:51.161 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 13:04:51.180 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 13:04:51.189 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 13:04:51.203 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 13:04:51.965 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 13:04:51.965 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 13:04:51.977 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 13:04:51.988 -06:00 [INF] Completed report update cycle
+2025-07-30 13:04:51.989 -06:00 [INF] Next update scheduled for "2025-07-30T13:09:51.9894766-06:00" (in "00:04:59.9999958")
+2025-07-30 13:09:51.992 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 13:09:51.994 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 13:09:51.999 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 13:09:52.018 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 13:09:53.138 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 13:09:53.138 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 13:09:53.138 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 13:09:53.189 -06:00 [INF] Completed report update cycle
+2025-07-30 13:09:53.191 -06:00 [INF] Next update scheduled for "2025-07-30T13:14:53.1918430-06:00" (in "00:04:59.9999925")
+2025-07-30 13:14:53.204 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 13:14:53.206 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 13:14:53.209 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 13:14:53.217 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 13:14:54.207 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 13:14:54.207 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 13:14:54.207 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 13:14:54.220 -06:00 [INF] Completed report update cycle
+2025-07-30 13:14:54.228 -06:00 [INF] Next update scheduled for "2025-07-30T13:19:54.2283268-06:00" (in "00:04:59.9999955")
+2025-07-30 13:19:54.258 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 13:19:54.271 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 13:19:54.283 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 13:19:54.315 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 13:19:55.075 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 13:19:55.075 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 13:19:55.127 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 13:19:55.131 -06:00 [INF] Completed report update cycle
+2025-07-30 13:19:55.133 -06:00 [INF] Next update scheduled for "2025-07-30T13:24:55.1335183-06:00" (in "00:04:59.9999946")
+2025-07-30 13:24:55.137 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 13:24:55.140 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 13:24:55.150 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 13:24:55.180 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 13:24:55.944 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 13:24:55.969 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 13:24:55.976 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 13:24:55.985 -06:00 [INF] Completed report update cycle
+2025-07-30 13:24:55.986 -06:00 [INF] Next update scheduled for "2025-07-30T13:29:55.9862159-06:00" (in "00:04:59.9999968")
+2025-07-30 13:29:55.990 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 13:29:56.006 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 13:29:56.020 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 13:29:56.047 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 13:29:58.753 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 13:29:58.760 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 13:29:58.773 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 13:29:58.773 -06:00 [INF] Completed report update cycle
+2025-07-30 13:29:58.774 -06:00 [INF] Next update scheduled for "2025-07-30T13:34:58.7739858-06:00" (in "00:04:59.9999971")
+2025-07-30 13:34:58.808 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 13:34:58.834 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 13:34:58.852 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 13:34:58.856 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 13:34:59.330 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T20:34:58.3298157Z"
+2025-07-30 13:34:59.330 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T20:34:58.3299145Z"
+2025-07-30 13:34:59.356 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T20:34:58.3566651Z"
+2025-07-30 13:35:00.132 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 13:35:00.198 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 13:35:00.340 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 13:35:00.344 -06:00 [INF] Completed report update cycle
+2025-07-30 13:35:00.345 -06:00 [INF] Next update scheduled for "2025-07-30T13:40:00.3452353-06:00" (in "00:04:59.9999971")
+2025-07-30 13:40:00.353 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 13:40:00.358 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 13:40:00.368 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 13:40:00.392 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 13:40:01.440 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 13:40:01.466 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 13:40:01.484 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 13:40:01.495 -06:00 [INF] Completed report update cycle
+2025-07-30 13:40:01.499 -06:00 [INF] Next update scheduled for "2025-07-30T13:45:01.4998298-06:00" (in "00:04:59.9999916")
+2025-07-30 13:45:01.516 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 13:45:01.534 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 13:45:01.544 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 13:45:01.551 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 13:45:02.583 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 13:45:02.596 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 13:45:02.612 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 13:45:02.626 -06:00 [INF] Completed report update cycle
+2025-07-30 13:45:02.628 -06:00 [INF] Next update scheduled for "2025-07-30T13:50:02.6281707-06:00" (in "00:04:59.9999968")
+2025-07-30 13:50:02.658 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 13:50:02.662 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 13:50:02.665 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 13:50:02.678 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 13:50:03.701 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 13:50:03.719 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 13:50:03.769 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 13:50:03.772 -06:00 [INF] Completed report update cycle
+2025-07-30 13:50:03.774 -06:00 [INF] Next update scheduled for "2025-07-30T13:55:03.7744407-06:00" (in "00:04:59.9999971")
+2025-07-30 13:55:03.786 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 13:55:03.790 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 13:55:03.799 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 13:55:03.812 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 13:55:04.733 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 13:55:04.750 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 13:55:04.931 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 13:55:04.940 -06:00 [INF] Completed report update cycle
+2025-07-30 13:55:04.951 -06:00 [INF] Next update scheduled for "2025-07-30T14:00:04.9516868-06:00" (in "00:04:59.9999934")
+2025-07-30 14:00:04.998 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 14:00:05.020 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 14:00:05.030 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 14:00:05.049 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 14:00:07.842 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 14:00:07.849 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 14:00:07.849 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 14:00:07.864 -06:00 [INF] Completed report update cycle
+2025-07-30 14:00:07.869 -06:00 [INF] Next update scheduled for "2025-07-30T14:05:07.8692806-06:00" (in "00:04:59.9999938")
+2025-07-30 14:05:07.873 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 14:05:07.886 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 14:05:07.899 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 14:05:07.910 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 14:05:09.325 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 14:05:09.325 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 14:05:09.325 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 14:05:09.351 -06:00 [INF] Completed report update cycle
+2025-07-30 14:05:09.352 -06:00 [INF] Next update scheduled for "2025-07-30T14:10:09.3523194-06:00" (in "00:04:59.9999971")
+2025-07-30 14:10:09.361 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 14:10:09.371 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 14:10:09.381 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 14:10:09.392 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 14:10:10.192 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 14:10:10.194 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 14:10:10.257 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 14:10:10.257 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 14:15:10.197 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 14:15:11.264 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 14:15:11.267 -06:00 [INF] Completed report update cycle
+2025-07-30 14:15:11.269 -06:00 [INF] Next update scheduled for "2025-07-30T14:20:11.2689889-06:00" (in "00:04:59.9999923")
+2025-07-30 14:20:11.297 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 14:20:11.307 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 14:20:11.316 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 14:20:11.332 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 14:20:12.434 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 14:20:12.444 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 14:20:12.445 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 14:20:12.515 -06:00 [INF] Completed report update cycle
+2025-07-30 14:20:12.516 -06:00 [INF] Next update scheduled for "2025-07-30T14:25:12.5167174-06:00" (in "00:04:59.9999973")
+2025-07-30 14:25:12.523 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 14:25:12.528 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 14:25:12.537 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 14:25:12.559 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 14:25:13.461 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 14:25:13.461 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 14:25:13.461 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 14:25:13.536 -06:00 [INF] Completed report update cycle
+2025-07-30 14:25:13.537 -06:00 [INF] Next update scheduled for "2025-07-30T14:30:13.5375932-06:00" (in "00:04:59.9999974")
+2025-07-30 14:30:13.565 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 14:30:13.576 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 14:30:13.601 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 14:30:13.607 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 14:30:14.090 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T21:30:13.0902153Z"
+2025-07-30 14:30:14.101 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T21:30:13.1010446Z"
+2025-07-30 14:30:14.104 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T21:30:13.1041621Z"
+2025-07-30 14:30:14.783 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 14:30:14.806 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 14:30:14.988 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 14:30:15.192 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 14:35:14.823 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 14:35:15.650 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 14:35:15.654 -06:00 [INF] Completed report update cycle
+2025-07-30 14:35:15.659 -06:00 [INF] Next update scheduled for "2025-07-30T14:40:15.6594830-06:00" (in "00:04:59.9999859")
+2025-07-30 14:40:15.666 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 14:40:15.671 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 14:40:15.680 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 14:40:15.696 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 14:40:16.617 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 14:40:16.621 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 14:40:16.923 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 14:40:16.923 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 14:45:16.627 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 14:45:17.488 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 14:45:17.496 -06:00 [INF] Completed report update cycle
+2025-07-30 14:45:17.504 -06:00 [INF] Next update scheduled for "2025-07-30T14:50:17.5045653-06:00" (in "00:04:59.9999916")
+2025-07-30 14:50:17.526 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 14:50:17.540 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 14:50:17.549 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 14:50:17.570 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 14:50:18.385 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 14:50:18.390 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 14:50:18.418 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 14:50:18.476 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 14:55:18.399 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 14:55:19.319 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 14:55:19.340 -06:00 [INF] Completed report update cycle
+2025-07-30 14:55:19.343 -06:00 [INF] Next update scheduled for "2025-07-30T15:00:19.3436099-06:00" (in "00:04:59.9999904")
+2025-07-30 15:00:19.348 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 15:00:19.357 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 15:00:19.369 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 15:00:19.388 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 15:00:21.074 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 15:00:21.097 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 15:00:21.112 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 15:00:21.142 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 15:05:21.121 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 15:05:21.849 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 15:05:21.860 -06:00 [INF] Completed report update cycle
+2025-07-30 15:05:21.862 -06:00 [INF] Next update scheduled for "2025-07-30T15:10:21.8629245-06:00" (in "00:04:59.9999900")
+2025-07-30 15:10:21.868 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 15:10:21.881 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 15:10:21.893 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 15:10:21.923 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 15:10:33.279 -06:00 [ERR] Exception occurred while refreshing dataset Ventopolis Delicias
+System.Net.Http.HttpRequestException: Host desconocido. (api.powerbi.com:443)
+ ---> System.Net.Sockets.SocketException (11001): Host desconocido.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionWithTelemetryAsync(HttpRequestMessage request, HttpConnectionPool pool, Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at PowerBiUpdater.Services.PowerBIService.RefreshDatasetAsync(DatasetConfig dataset) in C:\Users\Arnold Gonzalez\source\repos\PowerBiUpdater\PowerBiUpdater\Services\IPowerBIService.cs:line 57
+2025-07-30 15:10:33.321 -06:00 [ERR] Exception occurred while refreshing dataset ROLADO DEL
+System.Net.Http.HttpRequestException: Host desconocido. (api.powerbi.com:443)
+ ---> System.Net.Sockets.SocketException (11001): Host desconocido.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionWithTelemetryAsync(HttpRequestMessage request, HttpConnectionPool pool, Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at PowerBiUpdater.Services.PowerBIService.RefreshDatasetAsync(DatasetConfig dataset) in C:\Users\Arnold Gonzalez\source\repos\PowerBiUpdater\PowerBiUpdater\Services\IPowerBIService.cs:line 57
+2025-07-30 15:10:33.364 -06:00 [ERR] Exception occurred while refreshing dataset Ventopolis Delicias 2
+System.Net.Http.HttpRequestException: Host desconocido. (api.powerbi.com:443)
+ ---> System.Net.Sockets.SocketException (11001): Host desconocido.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.HttpConnectionWaiter`1.WaitForConnectionWithTelemetryAsync(HttpRequestMessage request, HttpConnectionPool pool, Boolean async, CancellationToken requestCancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|5_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at PowerBiUpdater.Services.PowerBIService.RefreshDatasetAsync(DatasetConfig dataset) in C:\Users\Arnold Gonzalez\source\repos\PowerBiUpdater\PowerBiUpdater\Services\IPowerBIService.cs:line 57
+2025-07-30 15:10:33.419 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 15:10:33.432 -06:00 [WRN] Dataset ROLADO DEL refresh failed, retrying in "00:05:00"
+2025-07-30 15:10:33.450 -06:00 [WRN] Dataset Ventopolis Delicias 2 refresh failed, retrying in "00:05:00"
+2025-07-30 15:15:33.464 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 2/3
+2025-07-30 15:15:33.467 -06:00 [INF] Processing dataset ROLADO DEL, attempt 2/3
+2025-07-30 15:15:33.486 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 15:15:34.459 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 15:15:34.477 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 15:15:34.496 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 15:15:34.507 -06:00 [INF] Completed report update cycle
+2025-07-30 15:15:34.510 -06:00 [INF] Next update scheduled for "2025-07-30T15:20:34.5099977-06:00" (in "00:04:59.9999913")
+2025-07-30 15:20:34.522 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 15:20:34.529 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 15:20:34.537 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 15:20:34.556 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 15:20:35.327 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 15:20:35.332 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 15:20:35.438 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 15:20:35.438 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 15:25:35.343 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 15:25:35.799 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T22:25:34.7991318Z"
+2025-07-30 15:25:36.516 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 15:25:36.520 -06:00 [INF] Completed report update cycle
+2025-07-30 15:25:36.523 -06:00 [INF] Next update scheduled for "2025-07-30T15:30:36.5232343-06:00" (in "00:04:59.9999916")
+2025-07-30 15:30:36.551 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 15:30:36.558 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 15:30:36.563 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 15:30:36.577 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 15:30:37.144 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 15:30:37.153 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 15:30:37.249 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 15:30:37.283 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 15:35:37.164 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 15:35:38.129 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 15:35:38.131 -06:00 [INF] Completed report update cycle
+2025-07-30 15:35:38.132 -06:00 [INF] Next update scheduled for "2025-07-30T15:40:38.1324063-06:00" (in "00:04:59.9999965")
+2025-07-30 15:40:38.144 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 15:40:38.162 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 15:40:38.176 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 15:40:38.186 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 15:40:38.897 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 15:40:38.913 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 15:40:38.958 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 15:40:38.983 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 15:45:38.921 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 15:45:39.837 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 15:45:39.838 -06:00 [INF] Completed report update cycle
+2025-07-30 15:45:39.839 -06:00 [INF] Next update scheduled for "2025-07-30T15:50:39.8397690-06:00" (in "00:04:59.9999962")
+2025-07-30 15:50:39.849 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 15:50:39.853 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 15:50:39.859 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 15:50:39.870 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 15:50:40.523 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 15:50:40.525 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 15:50:40.552 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 15:50:40.569 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 15:55:40.536 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 15:55:42.641 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 15:55:42.650 -06:00 [INF] Completed report update cycle
+2025-07-30 15:55:42.653 -06:00 [INF] Next update scheduled for "2025-07-30T16:00:42.6535826-06:00" (in "00:04:59.9999966")
+2025-07-30 16:00:42.657 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 16:00:42.666 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 16:00:42.674 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 16:00:42.692 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 16:00:43.282 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 16:00:43.286 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 16:00:43.386 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 16:00:43.386 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 16:05:43.294 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 16:05:44.051 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 16:05:44.070 -06:00 [INF] Completed report update cycle
+2025-07-30 16:05:44.078 -06:00 [INF] Next update scheduled for "2025-07-30T16:10:44.0781359-06:00" (in "00:04:59.9999960")
+2025-07-30 16:10:44.094 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 16:10:44.097 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 16:10:44.101 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 16:10:44.110 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 16:10:44.917 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 16:10:44.927 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 16:10:44.969 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 16:10:44.996 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 16:15:44.934 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 16:15:45.984 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 16:15:45.994 -06:00 [INF] Completed report update cycle
+2025-07-30 16:15:45.998 -06:00 [INF] Next update scheduled for "2025-07-30T16:20:45.9981104-06:00" (in "00:04:59.9999900")
+2025-07-30 16:20:46.018 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 16:20:46.024 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 16:20:46.055 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 16:20:46.061 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 16:20:46.555 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T23:20:45.5554907Z"
+2025-07-30 16:20:46.595 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T23:20:45.5948705Z"
+2025-07-30 16:20:46.595 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-30T23:20:45.5949472Z"
+2025-07-30 16:20:47.363 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 16:20:47.367 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 16:20:47.387 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 16:20:47.568 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 16:25:47.372 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 16:25:48.115 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 16:25:48.122 -06:00 [INF] Completed report update cycle
+2025-07-30 16:25:48.123 -06:00 [INF] Next update scheduled for "2025-07-30T16:30:48.1230813-06:00" (in "00:04:59.9999973")
+2025-07-30 16:30:48.138 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 16:30:48.142 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 16:30:48.152 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 16:30:48.175 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 16:30:48.694 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 16:30:48.699 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 16:30:48.861 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 16:30:48.913 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 16:35:48.709 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 16:35:49.755 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 16:35:49.790 -06:00 [INF] Completed report update cycle
+2025-07-30 16:35:49.794 -06:00 [INF] Next update scheduled for "2025-07-30T16:40:49.7942917-06:00" (in "00:04:59.9999966")
+2025-07-30 16:40:49.820 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 16:40:49.848 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 16:40:49.853 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 16:40:49.864 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 16:40:50.458 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 16:40:50.477 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 16:40:50.515 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 16:40:50.520 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 16:45:50.493 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 16:45:51.588 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 16:45:51.592 -06:00 [INF] Completed report update cycle
+2025-07-30 16:45:51.594 -06:00 [INF] Next update scheduled for "2025-07-30T16:50:51.5942807-06:00" (in "00:04:59.9999951")
+2025-07-30 16:50:51.596 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 16:50:51.603 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 16:50:51.614 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 16:50:51.623 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 16:50:52.352 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 16:50:52.365 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 16:50:52.556 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 16:50:52.556 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 16:55:52.374 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 16:55:53.330 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 16:55:53.337 -06:00 [INF] Completed report update cycle
+2025-07-30 16:55:53.342 -06:00 [INF] Next update scheduled for "2025-07-30T17:00:53.3423273-06:00" (in "00:04:59.9999901")
+2025-07-30 17:00:53.355 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 17:00:53.358 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 17:00:53.364 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 17:00:53.379 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 17:00:53.879 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 17:00:53.880 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 17:00:54.032 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 17:00:54.044 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 17:05:53.883 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 17:05:54.747 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 17:05:54.750 -06:00 [INF] Completed report update cycle
+2025-07-30 17:05:54.752 -06:00 [INF] Next update scheduled for "2025-07-30T17:10:54.7519717-06:00" (in "00:04:59.9999922")
+2025-07-30 17:10:54.767 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 17:10:54.773 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 17:10:54.780 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 17:10:54.804 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 17:10:55.517 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 17:10:55.536 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 17:10:55.651 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 17:10:55.651 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 17:15:55.539 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 17:15:56.074 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-31T00:15:55.0740281Z"
+2025-07-30 17:15:56.919 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 17:15:56.924 -06:00 [INF] Completed report update cycle
+2025-07-30 17:15:56.926 -06:00 [INF] Next update scheduled for "2025-07-30T17:20:56.9263447-06:00" (in "00:04:59.9999976")
+2025-07-30 17:20:56.936 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 17:20:56.945 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 17:20:56.967 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 17:20:56.985 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 17:20:57.859 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 17:20:57.859 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 17:20:57.859 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 17:20:57.874 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 17:25:57.887 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 17:25:58.722 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 17:25:58.734 -06:00 [INF] Completed report update cycle
+2025-07-30 17:25:58.735 -06:00 [INF] Next update scheduled for "2025-07-30T17:30:58.7357914-06:00" (in "00:04:59.9999968")
+2025-07-30 17:30:58.760 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 17:30:58.769 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 17:30:58.771 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 17:30:58.779 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 17:30:59.703 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 17:30:59.704 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 17:30:59.720 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 17:30:59.738 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 17:35:59.706 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 17:36:00.559 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 17:36:00.602 -06:00 [INF] Completed report update cycle
+2025-07-30 17:36:00.604 -06:00 [INF] Next update scheduled for "2025-07-30T17:41:00.6040240-06:00" (in "00:04:59.9999965")
+2025-07-30 17:41:00.609 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 17:41:00.617 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 17:41:00.627 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 17:41:00.643 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 17:41:01.428 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 17:41:01.437 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 17:41:01.629 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 17:41:01.629 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 17:46:01.451 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 17:46:02.157 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 17:46:02.166 -06:00 [INF] Completed report update cycle
+2025-07-30 17:46:02.171 -06:00 [INF] Next update scheduled for "2025-07-30T17:51:02.1717655-06:00" (in "00:04:59.9999928")
+2025-07-30 17:51:02.185 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 17:51:02.202 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 17:51:02.212 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 17:51:02.237 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 17:51:02.957 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 17:51:02.977 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 17:51:03.159 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 17:51:03.159 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 17:56:02.985 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 17:56:03.927 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 17:56:03.930 -06:00 [INF] Completed report update cycle
+2025-07-30 17:56:03.931 -06:00 [INF] Next update scheduled for "2025-07-30T18:01:03.9312280-06:00" (in "00:04:59.9999929")
+2025-07-30 18:01:03.943 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 18:01:03.949 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 18:01:03.966 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 18:01:03.983 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 18:01:04.739 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 18:01:04.749 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 18:01:04.851 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 18:01:04.873 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 18:06:04.753 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 18:06:05.758 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 18:06:05.760 -06:00 [INF] Completed report update cycle
+2025-07-30 18:06:05.761 -06:00 [INF] Next update scheduled for "2025-07-30T18:11:05.7616512-06:00" (in "00:04:59.9999927")
+2025-07-30 18:11:05.768 -06:00 [INF] Starting report update cycle for 3 datasets
+2025-07-30 18:11:05.779 -06:00 [INF] Processing dataset ROLADO DEL, attempt 1/3
+2025-07-30 18:11:05.817 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 1/3
+2025-07-30 18:11:05.836 -06:00 [INF] Processing dataset Ventopolis Delicias 2, attempt 1/3
+2025-07-30 18:11:06.430 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-31T01:11:05.4281112Z"
+2025-07-30 18:11:06.476 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-31T01:11:05.4764779Z"
+2025-07-30 18:11:06.541 -06:00 [INF] Successfully acquired new access token, expires at "2025-07-31T01:11:05.5413638Z"
+2025-07-30 18:11:07.200 -06:00 [ERR] Failed to refresh dataset Ventopolis Delicias. Status: "BadRequest", Error: {"error":{"code":"RefreshInProgressException","message":"Invalid dataset refresh request. Another refresh request is already executing"}}
+2025-07-30 18:11:07.204 -06:00 [WRN] Dataset Ventopolis Delicias refresh failed, retrying in "00:05:00"
+2025-07-30 18:11:07.340 -06:00 [INF] Successfully initiated refresh for dataset ROLADO DEL (4d170652-deeb-4f4e-9e49-9a62f6b1a17d)
+2025-07-30 18:11:07.340 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias 2 (24460187-f130-497e-99bf-f7f9a0e12af1)
+2025-07-30 18:16:07.211 -06:00 [INF] Processing dataset Ventopolis Delicias, attempt 2/3
+2025-07-30 18:16:08.208 -06:00 [INF] Successfully initiated refresh for dataset Ventopolis Delicias (eab7b90b-4227-45b9-96e3-55a91be1b110)
+2025-07-30 18:16:08.212 -06:00 [INF] Completed report update cycle
+2025-07-30 18:16:08.215 -06:00 [INF] Next update scheduled for "2025-07-30T18:21:08.2150034-06:00" (in "00:04:59.9999949")
